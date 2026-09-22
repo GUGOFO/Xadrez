@@ -8,6 +8,10 @@ site_author: GUGOFO
 
 nav:
   - Home: index.md
+  
+  - Requisitos: requisitos/requisitos.md
+
+  - Desenvolvedor: Desenvolvedor/desenvolvedor.md
 
 theme:
   name: material
