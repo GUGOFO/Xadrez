@@ -22,5 +22,19 @@
 
 ---
 
+## Metodologias e Técnicas Utilizadas
+
+| Metodologia / Técnica | Descrição |
+| --- | :--- |
+**Engenharia de Requisitos** | Levantamento, especificação e padronização dos Requisitos Funcionais (RF), Regras de Negócio (RN). |
+| **Priorização MoSCoW** | Classificação das funcionalidades nas categorias *Must Have*, *Should Have*, *Could Have* e *Won't Have*. |
+| **Matriz de Valor vs. Esforço** | Mapeamento estratégico em matriz 2x2 para identificação da priorização dos RFs. |
+| **Definição de MVP** | Escopamento do produto inicial contendo os requisitos indispensáveis para validação e uso do sistema. |
+| **Metodologia Ágil / Scrum** | Abordagem de desenvolvimento iterativo focada em entregas incrementais e valor contínuo para o usuário. |
+| **User Stories** | Especificação do comportamento do sistema sob a perspectiva do jogador acompanhada de critérios de aceite. |
+| **Gestão de Backlog do Produto** | Organização, priorização e fatiamento do conjunto de itens e funcionalidades para desenvolvimento. |
+
+---
+
 ## Repositório
 Confira o código fonte completo do projeto no GitHub clicando no lado direito superior da tela ou seguindo esse link: [GUGOFO/Xadrez](https://github.com/GUGOFO/Xadrez)
