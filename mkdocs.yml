@@ -15,7 +15,23 @@ nav:
     - Matriz de Valor vs. Esforço: requisitos/valorEsforco.md
     - Produto Mínimo Viável: requisitos/mvp.md
 
-  - BackLog: backlog/backlog.md
+  - BackLog:
+    - BackLog Geral: backlog/backlog.md
+    - User Storys:
+      - US01: backlog/US/US01.md
+      - US02: backlog/US/US02.md
+      - US03: backlog/US/US03.md
+      - US04: backlog/US/US04.md
+      - US05: backlog/US/US05.md
+      - US06: backlog/US/US06.md
+      - US07: backlog/US/US07.md
+      - US08: backlog/US/US08.md
+      - US09: backlog/US/US09.md
+      - US10: backlog/US/US10.md
+      - US11: backlog/US/US11.md
+      - US12: backlog/US/US12.md
+      - US13: backlog/US/US13.md
+      - US14: backlog/US/US14.md
 
   - Desenvolvedor: Desenvolvedor/desenvolvedor.md
 
