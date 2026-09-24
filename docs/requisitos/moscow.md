@@ -10,7 +10,6 @@ A matriz MoSCoW abaixo prioriza as funcionalidades do sistema com base nos Requi
 | **RF01** | Exibir Tabuleiro |
 | **RF02** | Selecionar Peça |
 | **RF03** | Mover Peça | 
-| **RF15** | Validar Jogadas |
 | **RF09** | Desistir da Partida |
 | **RF10** | Propor Empate |
 | **RF11** | Exibir Resultado | 

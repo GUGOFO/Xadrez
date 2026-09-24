@@ -27,7 +27,6 @@ A distribuição dos 16 Requisitos Funcionais do escopo verde está organizadas 
 | **RF05** | Exibir Histórico de Movimentos |
 | **RF13** | Exibir Peças Capturadas |
 | **RF14** | Exibir Espaços Seguros |
-| **RF15** | Validar Jogadas |
 
 ---
 

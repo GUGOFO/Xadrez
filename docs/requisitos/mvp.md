@@ -14,7 +14,6 @@
 | **RF11** | Exibir Resultado | Must Have | Apresentar tela ao final da partida contendo o resultado final. |
 | **RF13** | Exibir Peças Capturadas | Should Have | Exibir painel dedicado na interface listando todas as peças capturadas por cada jogador ao longo da partida. |
 | **RF14** | Exibir Espaços Seguros | Should Have | Destacar as casas seguras para onde o Rei pode se mover caso esteja sob condição de xeque. |
-| **RF15** | Validar Jogadas | Must Have | Checar cada movimento tentado para assegurar que apenas lances permitidos pelas regras sejam executados. |
 
 # Figma
 
