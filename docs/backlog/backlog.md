@@ -3,7 +3,7 @@
 | US | Nome | Descrição | RF Pai |
 |---|---|---|---|
 | **US01** | Visualização do Tabuleiro | Como jogador, quero visualizar o tabuleiro, para jogar o jogo. | RF01 |
-| **US02** | Seleção de Peças | Como jogador, quero clicar nas minhas peças, para que fique selecionada para a jogada. | RF02 |
+| **US02** | Seleção de Peças | Como jogador, quero clicar nas minhas peças, para que fique selecionada. | RF02 |
 | **US03** | Exibição de jogadas possíveis | Como jogador, quero ver os possíveis movimentos da minha peça selecionada, para que facilite minhas decisões. | RF03 |
 | **US04** | Movimentação de peça | Como jogador, quero mover minha peça selecionada para o destino possível que escolhi, para realizar a jogada. | RF04 |
 | **US05** | Alteração de tempo de Jogo | Como jogador, quero selecionar quanto tempo total e extra cada jogador deve ter, para controlar a duração máxima do jogo. | RF05 |

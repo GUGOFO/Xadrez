@@ -12,11 +12,11 @@ A distribuição dos 16 Requisitos Funcionais do escopo verde está organizadas 
 | **RF02** | Selecionar Peça |
 | **RF04** | Mover Peça |
 | **RF05** | Alterar Tempo de Jogo |
+| **RF08** | Modificar Cores |
 | **RF09** | Alterar Nomes |
 | **RF10** | Desistir da Partida |
 | **RF11** | Propor Empate |
-| **RF12** | Exibir Resultado ||
-| **RF14** | Exibir Peças Capturadas |
+| **RF12** | Exibir Resultado |
 
 ---
 
@@ -26,7 +26,7 @@ A distribuição dos 16 Requisitos Funcionais do escopo verde está organizadas 
 | :--- | :--- |
 | **RF03** | Exibir Jogadas Possíveis |
 | **RF06** | Exibir Histórico de Movimentos |
-| **RF13** | Editar Tabuleiro | 
+| **RF14** | Exibir Peças Capturadas |
 | **RF15** | Exibir Espaços Seguros |
 | **RF16** | Validar Jogadas |
 
@@ -37,13 +37,12 @@ A distribuição dos 16 Requisitos Funcionais do escopo verde está organizadas 
 | ID | Requisito |
 | :--- | :--- |
 | **RF07** | Voltar Movimentos |
-| **RF08** | Modificar Cores |
 
 ---
 
 ### Pequeno Valor x Grande Esforço
  
-Nâo existe nenhum requisito nessa categoria
+| **RF13** | Editar Tabuleiro | 
 
 ---
 

@@ -24,6 +24,7 @@ A matriz MoSCoW abaixo prioriza as funcionalidades do sistema com base nos Requi
 | **RF03** | Exibir Jogadas Possíveis |
 | **RF05** | Alterar Tempo de Jogo |
 | **RF06** | Exibir Histórico de Movimentos |
+| **RF08** | Modificar Cores |
 | **RF09** | Alterar Nomes |
 | **RF14** | Exibir Peças Capturadas |
 | **RF15** | Exibir Espaços Seguros | 
@@ -35,7 +36,6 @@ A matriz MoSCoW abaixo prioriza as funcionalidades do sistema com base nos Requi
 | ID | Requisito |
 | :--- | :--- |
 | **RF07** | Voltar Movimentos |
-| **RF08** | Modificar Cores |
 | **RF13** | Editar Tabuleiro |
 
 ---
