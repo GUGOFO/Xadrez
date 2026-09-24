@@ -4,18 +4,17 @@
 |---|---|---|---|
 | **US01** | Visualização do Tabuleiro | Como jogador, quero visualizar o tabuleiro, para jogar o jogo. | RF01 |
 | **US02** | Seleção de Peças | Como jogador, quero clicar nas minhas peças, para que fique selecionada. | RF02 |
-| **US03** | Exibição de jogadas possíveis | Como jogador, quero ver os possíveis movimentos da minha peça selecionada, para que facilite minhas decisões. | RF03 |
-| **US04** | Movimentação de peça | Como jogador, quero mover minha peça selecionada para o destino possível que escolhi, para realizar a jogada. | RF04 |
-| **US05** | Alteração de tempo de Jogo | Como jogador, quero selecionar quanto tempo total e extra cada jogador deve ter, para controlar a duração máxima do jogo. | RF05 |
-| **US06** | Exibição do Histórico de movimentos | Como jogador, quero visualizar o histórico de movimento da partida, para me lembrar qual foi a ordem de jogadas realizadas. | RF06 |
-| **US07** | Modificação das Cores | Como jogador, quero modificar as cores das minhas peças, para deixar o jogo mais personalizado. | RF08 |
-| **US08** | Alteração dos Nomes | Como jogador, quero alterar os nomes dos jogadores antes de iniciar a partida, para deixar o jogo mais pessoal para nos jogadores. | RF09 |
-| **US09** | Desistência da Partida | Como jogador, quero poder desistir da partida em que estou jogando, para declarar minha derrota sem ter que prolongar o jogo. | RF10 |
-| **US10** | Proposição de Empate | Como jogador, quero poder propor um empate para meu oponente, para não prolongar o jogo que nós sabemos que dará um empate. | RF11 |
-| **US11** | Exibição do Resultado | Como jogador, quero visualizar o resultado da partida após ela acabar, para entender quem foi o vencedor ou se foi um empate. | RF12 |
-| **US12** | Exibição das peças capturadas | Como jogador, quero visualizar as peças que capturei do meu oponente, para ver meu progresso no jogo. | RF14 |
-| **US13** | Exibição dos espaços seguros | Como jogador, quero visualizar os espaços seguros que meu rei pode movimentar ao receber xeque, para decidir meu próximo movimento mais rapidamente. | RF15 |
-| **US14** | Validação de Jogadas | Como jogador, ser impedido de realizar movimentos ilegais, para garantir que a partida siga as regras do xadrez. | RF16 |
+| **US03** | Movimentação de peça | Como jogador, quero mover minha peça selecionada para o destino possível que escolhi, para realizar a jogada. | RF03 |
+| **US04** | Alteração de tempo de Jogo | Como jogador, quero selecionar quanto tempo total e extra cada jogador deve ter, para controlar a duração máxima do jogo. | RF04 |
+| **US05** | Exibição do Histórico de movimentos | Como jogador, quero visualizar o histórico de movimento da partida, para me lembrar qual foi a ordem de jogadas realizadas. | RF05 |
+| **US06** | Modificação das Cores | Como jogador, quero modificar as cores das minhas peças, para deixar o jogo mais personalizado. | RF07 |
+| **US07** | Alteração dos Nomes | Como jogador, quero alterar os nomes dos jogadores antes de iniciar a partida, para deixar o jogo mais pessoal para nos jogadores. | RF08 |
+| **US08** | Desistência da Partida | Como jogador, quero poder desistir da partida em que estou jogando, para declarar minha derrota sem ter que prolongar o jogo. | RF09 |
+| **US09** | Proposição de Empate | Como jogador, quero poder propor um empate para meu oponente, para não prolongar o jogo que nós sabemos que dará um empate. | RF10 |
+| **US10** | Exibição do Resultado | Como jogador, quero visualizar o resultado da partida após ela acabar, para entender quem foi o vencedor ou se foi um empate. | RF11 |
+| **US11** | Exibição das peças capturadas | Como jogador, quero visualizar as peças que capturei do meu oponente, para ver meu progresso no jogo. | RF13 |
+| **US12** | Exibição dos espaços seguros | Como jogador, quero visualizar os espaços seguros que meu rei pode movimentar ao receber xeque, para decidir meu próximo movimento mais rapidamente. | RF14 |
+| **US13** | Validação de Jogadas | Como jogador, ser impedido de realizar movimentos ilegais, para garantir que a partida siga as regras do xadrez. | RF15 |
 
 ## Figma
 

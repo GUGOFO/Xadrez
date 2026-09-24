@@ -9,11 +9,11 @@ A matriz MoSCoW abaixo prioriza as funcionalidades do sistema com base nos Requi
 | :--- | :--- |
 | **RF01** | Exibir Tabuleiro |
 | **RF02** | Selecionar Peça |
-| **RF04** | Mover Peça | 
-| **RF16** | Validar Jogadas |
-| **RF10** | Desistir da Partida |
-| **RF11** | Propor Empate |
-| **RF12** | Exibir Resultado | 
+| **RF03** | Mover Peça | 
+| **RF15** | Validar Jogadas |
+| **RF09** | Desistir da Partida |
+| **RF10** | Propor Empate |
+| **RF11** | Exibir Resultado | 
 
 ---
 
@@ -21,13 +21,12 @@ A matriz MoSCoW abaixo prioriza as funcionalidades do sistema com base nos Requi
 
 | ID | Requisito |
 | :--- | :--- |
-| **RF03** | Exibir Jogadas Possíveis |
-| **RF05** | Alterar Tempo de Jogo |
-| **RF06** | Exibir Histórico de Movimentos |
-| **RF08** | Modificar Cores |
-| **RF09** | Alterar Nomes |
-| **RF14** | Exibir Peças Capturadas |
-| **RF15** | Exibir Espaços Seguros | 
+| **RF04** | Alterar Tempo de Jogo |
+| **RF05** | Exibir Histórico de Movimentos |
+| **RF07** | Modificar Cores |
+| **RF08** | Alterar Nomes |
+| **RF13** | Exibir Peças Capturadas |
+| **RF14** | Exibir Espaços Seguros | 
 
 ---
 
@@ -35,8 +34,8 @@ A matriz MoSCoW abaixo prioriza as funcionalidades do sistema com base nos Requi
 
 | ID | Requisito |
 | :--- | :--- |
-| **RF07** | Voltar Movimentos |
-| **RF13** | Editar Tabuleiro |
+| **RF06** | Voltar Movimentos |
+| **RF12** | Editar Tabuleiro |
 
 ---
 
