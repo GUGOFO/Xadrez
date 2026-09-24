@@ -13,6 +13,7 @@
 | **US09** | Exibição do Resultado | Como jogador, quero visualizar o resultado da partida após ela acabar, para entender quem foi o vencedor ou se foi um empate. | RF10 |
 | **US10** | Exibição das peças capturadas | Como jogador, quero visualizar as peças que capturei do meu oponente, para ver meu progresso no jogo. | RF12 |
 | **US11** | Exibição dos espaços seguros | Como jogador, quero visualizar os espaços seguros que meu rei pode movimentar ao receber xeque, para decidir meu próximo movimento mais rapidamente. | RF13 |
+| **US12** | Validação de Jogadas | Como jogador, ser impedido de realizar movimentos ilegais, para garantir que a partida siga as regras do xadrez. | RF14 |
 
 ## Figma
 
