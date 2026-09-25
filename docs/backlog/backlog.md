@@ -14,7 +14,8 @@
 | US10 | Exibição do Resultado | Como jogador, quero visualizar o resultado da partida após ela acabar, para entender quem foi o vencedor ou se foi um empate. | RF11 |
 | US11 | Exibição das peças capturadas | Como jogador, quero visualizar as peças que capturei do meu oponente, para ver meu progresso no jogo. | RF13 |
 | US12 | Exibição dos espaços seguros | Como jogador, quero visualizar os espaços seguros que meu rei pode movimentar ao receber xeque, para decidir meu próximo movimento mais rapidamente. | RF14 |
-| US13 | Exibição das configurações | Como usuário, quero acessar uma aba de configurações, para que eu possa personalizar as opções do jogo de forma rápida e centralizada. | RF15 
+| US13 | Exibição das configurações | Como usuário, quero acessar uma aba de configurações, para que eu possa personalizar as opções do jogo de forma rápida e centralizada. | RF15 |
+| US14 | Iniciação da partida | Como jogador, quero poder começar a partida, para que possa jogar o jogo com meu amigo. | RF16 |
 
 ## Figma
 

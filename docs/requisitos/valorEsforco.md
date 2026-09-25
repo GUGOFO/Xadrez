@@ -18,6 +18,7 @@ A distribuição dos 16 Requisitos Funcionais do escopo verde está organizadas 
 | **RF10** | Propor Empate |
 | **RF11** | Exibir Resultado |
 | **RF15** | Exibir Configurações |
+| **RF16** | Iniciar Partida |
 
 ---
 

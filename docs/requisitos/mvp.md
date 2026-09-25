@@ -15,6 +15,7 @@
 | **RF13** | Exibir Peças Capturadas | Should Have | Exibir painel dedicado na interface listando todas as peças capturadas por cada jogador ao longo da partida. |
 | **RF14** | Exibir Espaços Seguros | Should Have | Destacar as casas seguras para onde o Rei pode se mover caso esteja sob condição de xeque. |
 | **RF15** | Exibir Configurações | Must Have | Apresentar uma tela de configurações geral do sistema. |
+| **RF16** | Iniciar Partida | Must Have | Iniciar uma partida com as configurações já salvas. |
 
 # Figma
 
