@@ -18,6 +18,7 @@ A tabela a seguir apresenta os 16 Requisitos Funcionais do sistema, organizados 
 | **RF12** | Editar Tabuleiro | Disponibilizar modo de jogo customizado para posicionar peças livremente. |
 | **RF13** | Exibir Peças Capturadas | Exibir painel dedicado na interface listando todas as peças capturadas por cada jogador ao longo da partida. |
 | **RF14** | Exibir Espaços Seguros | Destacar as casas seguras para onde o Rei pode se mover caso esteja sob condição de xeque. |
+| **RF15** | Exibir Configurações | Apresentar uma tela de configurações geral do sistema. |
 
 ## Figma
 

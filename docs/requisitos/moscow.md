@@ -13,6 +13,7 @@ A matriz MoSCoW abaixo prioriza as funcionalidades do sistema com base nos Requi
 | **RF09** | Desistir da Partida |
 | **RF10** | Propor Empate |
 | **RF11** | Exibir Resultado | 
+| **RF15** | Exibir Configurações | 
 
 ---
 
